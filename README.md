@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @JoostZijlstra, a TDP software tester with master's in human factors and engineering psychology 
+- 👋 Hi, I’m @JoostZijlstra, 
+- :nerd_face:   I'm a TDP software tester with master's in human factors and engineering psychology 
 - 👀 I have a keen interest in combining psychology, technology and software
 - 🌱 I’m currently diving deeper into the more technical aspects of my field.
